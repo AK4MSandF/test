@@ -8,6 +8,7 @@ Directory = Folder
 Editor = word processor for writing code
 Git = tool that tracks the changes in your code over time 
 GitHub = a website to host repositories online
+pull = download changes from remote repo to your local machine
 push = upload git commits to a remote repo like Github
 Repository = Project. Folder where the project is kept.
 Terminal = Mac: Interface for text commands
