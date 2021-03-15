@@ -1,1 +1,14 @@
+add = track your files and changes in Git
+cd = change directory (go to folder ...)
+? CLI = Command Line Interface
+Clone = bring a repository that is hosted somewhere like Github into a folder on your local machine
+Command Line = Interface for text commands
+commit = save your files in Git
+Directory = Folder
+Editor = word processor for writing code
+Git = tool that tracks the changes in your code over time 
+GitHub = a website to host repositories online
+push = upload git commits to a remote repo like Github
+Repository = Project. Folder where the project is kept.
+Terminal = Mac: Interface for text commands
 
